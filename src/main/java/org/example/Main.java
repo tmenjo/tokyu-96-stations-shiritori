@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: MIT
+// Copyright (c) 2022 Takashi Menjo
+
 package org.example;
 
 import org.example.Graph.Vertex;
